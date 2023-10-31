@@ -1,0 +1,43 @@
+.placeholder{
+    height: 245pt; width: 310pt;
+    border-style: dotted;
+    border-color:rgb(255, 255, 255);
+    border-width: 5px;
+    display: block;
+    margin-right: auto; margin-left: auto;}
+
+.frontpagetitle{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white; 
+    background-color:dodgerblue;
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 3px;}
+
+.frontpageslogan{
+    font-family:monospace;
+    color: darkblue;
+    background-color: rgb(234, 243, 255);
+    font-size: 30px;
+    text-align: center;}
+
+h3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white; 
+    background-color:dodgerblue;
+    font-size: 20px;
+    font-style: italic;
+    text-align: center}
+
+textarea{
+    font-family:monospace;
+    color: darkblue;
+    background-color: rgb(234, 243, 255);
+    font-size: 15px}
+
+.sentenceStarter{
+    font-family:monospace;
+    color: darkblue;
+    background-color: rgb(234, 243, 255);
+    font-size: 30px}
